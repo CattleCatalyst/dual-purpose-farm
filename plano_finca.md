@@ -28,40 +28,40 @@
 
 ### Potreros para Ganado Horro (5 potreros)
 
-| Nombre del Potrero | Área (ha) | Área (mz) | Características |
-|-------------------|-----------|-----------|-----------------|
-| El Cenicero | 6.06 | 8.66 | Zona amarilla en el plano |
-| Chepeño | 7.91 | 11.30 | Zona amarilla en el plano |
-| Tufo | 8.19 | 11.70 | Zona amarilla en el plano |
-| Coyoles | 6.12 | 8.74 | Zona amarilla en el plano |
-| Pegado Coyoles | 5.54 | 7.91 | Zona amarilla en el plano |
-| **Total Ganado Horro** | **33.82** | **48.31** | |
+| Nombre del Potrero | Área (ha) | Área (mz) | Altitud (msnm) | Fuente de Agua | Características |
+|-------------------|-----------|-----------|--------------|--------------|------------------|
+| El Cenicero | 6.06 | 8.66 | 495 | Pila abastecida por pozo principal | Zona amarilla en el plano |
+| Chepeño | 7.91 | 11.30 | 505 | Pila abastecida por pozo principal | Zona amarilla en el plano |
+| Tufo | 8.19 | 11.70 | 501 | Pila abastecida por pozo principal | Zona amarilla en el plano |
+| Coyoles | 6.12 | 8.74 | 551 | Pila abastecida por pozo principal | Zona amarilla en el plano |
+| Pegado Coyoles | 5.54 | 7.91 | 544 | Pila abastecida por pozo principal | Zona amarilla en el plano |
+| **Total Ganado Horro** | **33.82** | **48.31** | **Prom: 519** | | |
 
 ### Potreros para Ganado Parido (5 potreros)
 
-| Nombre del Potrero | Área (ha) | Área (mz) | Características |
-|-------------------|-----------|-----------|-----------------|
-| Simeoneño | 4.84 | 6.91 | Zona celeste en el plano |
-| Lagunita | 4.17 | 5.96 | Zona celeste en el plano |
-| Loma | 6.91 | 9.87 | Zona celeste en el plano |
-| Gorra | 7.15 | 10.21 | Zona celeste en el plano |
-| Buenos Aires | 3.17 | 4.53 | Zona celeste en el plano |
-| **Total Ganado Parido** | **26.24** | **37.48** | |
+| Nombre del Potrero | Área (ha) | Área (mz) | Altitud (msnm) | Fuente de Agua | Características |
+|-------------------|-----------|-----------|--------------|--------------|------------------|
+| Simeoneño | 4.84 | 6.91 | 590 | Laguna artificial compartida con La Loma | Zona celeste en el plano |
+| Lagunita | 4.17 | 5.96 | 598 | Laguna artificial compartida con La Gorra y La Loma | Zona celeste en el plano |
+| Loma | 6.91 | 9.87 | 591 | Acceso a dos lagunas artificiales | Zona celeste en el plano |
+| Gorra | 7.15 | 10.21 | 590 | Laguna artificial compartida con Lagunita y La Loma | Zona celeste en el plano |
+| Buenos Aires | 3.17 | 4.53 | 564 | Laguna artificial propia | Zona celeste en el plano |
+| **Total Ganado Parido** | **26.24** | **37.48** | **Prom: 587** | | |
 
 ### Potreros para Terneros (2 potreros)
 
-| Nombre del Potrero | Área (ha) | Área (mz) | Características |
-|-------------------|-----------|-----------|-----------------|
-| Huesera | 0.34 | 0.49 | Zona terracota en el plano |
-| En Frente | 0.292 | 0.42 | Zona terracota en el plano |
-| **Total Terneros** | **0.632** | **0.91** | |
+| Nombre del Potrero | Área (ha) | Área (mz) | Altitud (msnm) | Fuente de Agua | Características |
+|-------------------|-----------|-----------|--------------|--------------|------------------|
+| Huesera | 0.34 | 0.49 | 520 | Pila permanente propia | Zona terracota en el plano |
+| En Frente | 0.292 | 0.42 | 525 | Sin fuente permanente identificada | Zona terracota en el plano |
+| **Total Terneros** | **0.632** | **0.91** | **Prom: 522.5** | | |
 
 ### Otras Áreas
 
-| Uso | Área (ha) | Área (mz) | Ubicación |
-|-----|-----------|-----------|-----------|
-| Área de zacate para ensilado | 1.05 | 1.50 | [Pendiente en el plano] |
-| Casa hacienda y corrales de ordeño | [Pendiente] | [Pendiente] | Zona terracota en el plano |
+| Uso | Área (ha) | Área (mz) | Altitud (msnm) | Fuente de Agua | Ubicación |
+|-----|-----------|-----------|--------------|--------------|------------|
+| Área de zacate para ensilado | 1.05 | 1.50 | [Pendiente] | Sin fuente permanente identificada | [Pendiente en el plano] |
+| Casa hacienda y corrales de ordeño | [Pendiente] | [Pendiente] | 565 | Pozo principal con pila permanente | Zona terracota en el plano |
 
 ## Resumen de Áreas
 
@@ -88,10 +88,18 @@
    - Potreros para ganado parido: 5.25 ha (7.50 mz)
    - Potreros para terneros: 0.32 ha (0.45 mz)
 
-3. **Oportunidades de mejora basadas en el plano**:
+3. **Distribución de fuentes de agua**:
+   - Pozo principal que abastece la casa hacienda y los potreros de la zona baja
+   - Tres lagunas artificiales que abastecen principalmente los potreros de la zona alta
+   - Pilas de agua estratégicamente ubicadas para facilitar el acceso de los animales
+
+4. **Oportunidades de mejora basadas en el plano y recursos hídricos**:
    - Evaluar la posibilidad de subdivisión de potreros grandes para manejo rotacional más intensivo
    - Considerar la ampliación del área para terneros que actualmente es muy limitada
    - Aumentar el área destinada a producción de forraje para conservación (ensilaje)
+   - Optimizar el sistema de distribución de agua aprovechando la diferencia de altitud
+   - Mejorar las lagunas artificiales existentes para aumentar su capacidad y durabilidad
+   - Implementar sistemas de captación de agua de lluvia para complementar las fuentes existentes
    - Identificar y mapear las áreas no documentadas para su potencial aprovechamiento o conservación
 
 ---

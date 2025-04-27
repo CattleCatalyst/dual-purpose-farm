@@ -20,11 +20,33 @@
 
 ## Diagnóstico Actual
 
-- Disponibilidad parcial de agua en algunos potreros
-- Pequeñas lagunas estacionales que no mantienen agua todo el año
-- Terreno montañoso que dificulta la distribución uniforme
-- Sin información detallada sobre fuentes permanentes de agua
+### Topografía y Distribución
+- Terreno montañoso con variación de altitud de 103 metros (495-598 msnm)
+- Potreros de ganado parido ubicados en las zonas más altas (promedio 587 msnm)
+- Potreros de ganado horro ubicados en las zonas más bajas (promedio 519 msnm)
+- Potrero "La Lagunita" ubicado en el punto más alto (598 msnm)
+
+### Fuentes de Agua Existentes
+- **Pozo principal**: 
+  - Abastece agua a la casa hacienda
+  - Alimenta una pila permanente en la casa hacienda
+  - Alimenta una pila que abastece a los potreros de la zona baja: "El Tufo", "El Cenicero", "Los Coyoles" y "Pegado a los Coyoles"
+
+- **Pilas de agua**:
+  - Pila en casa hacienda con disponibilidad permanente
+  - Pila en potrero "La Huesera" con disponibilidad permanente
+  - Pila para los potreros de la zona baja
+
+- **Lagunas artificiales**:
+  - Laguna en potrero "Buenos Aires" (564 msnm)
+  - Laguna que abastece los potreros: "La Gorra" (590 msnm), "Lagunita" (598 msnm) y "La Loma" (591 msnm)
+  - Laguna que abastece los potreros: "Simeoneño" (590 msnm) y "La Loma" (591 msnm)
+
+### Limitaciones Identificadas
+- Sin datos sobre capacidad y rendimiento del pozo principal
+- Sin información sobre capacidad de almacenamiento de las lagunas artificiales
 - Sin datos sobre calidad del agua disponible
+- Falta sistema de distribución integrado que aproveche la topografía
 
 ## Objetivos Específicos
 
@@ -39,10 +61,13 @@
 ### 1. Inventario y Protección de Fuentes Hídricas
 
 #### Acciones a corto plazo (0-6 meses)
-- Realizar inventario detallado de todas las fuentes de agua (manantiales, quebradas, lagunas)
-- Evaluar caudales y estacionalidad de cada fuente
-- Analizar calidad de agua de las fuentes principales
-- Identificar áreas de recarga hídrica
+- Realizar evaluación técnica de las fuentes de agua existentes:
+  - Medir capacidad y rendimiento del pozo principal
+  - Evaluar capacidad de almacenamiento de las tres lagunas artificiales
+  - Determinar calidad de agua de cada fuente (pozo y lagunas)
+- Evaluar caudales y estacionalidad de cada fuente durante el año
+- Identificar áreas de recarga hídrica para las lagunas artificiales
+- Evaluar potencial de ampliación de las lagunas existentes
 
 #### Acciones a mediano plazo (6-18 meses)
 - Delimitar y cercar áreas de protección alrededor de fuentes de agua
@@ -58,50 +83,79 @@
 ### 2. Sistemas de Captación de Agua
 
 #### Acciones a corto plazo
-- Identificar áreas estratégicas para captación de agua de lluvia
-- Diseñar sistemas de captación adaptados a condiciones de la finca
+- Optimizar las lagunas artificiales existentes:
+  - Ampliar y mejorar la laguna en potrero "Buenos Aires" (564 msnm)
+  - Reforzar y ampliar la laguna que abastece "La Gorra", "Lagunita" y "La Loma"
+  - Mejorar la laguna que abastece "Simeoneño" y "La Loma"
+- Identificar áreas adicionales para captación de agua de lluvia, priorizando:
+  - Zonas cercanas a la laguna existente en "La Lagunita" (598 msnm)
+  - Áreas con potencial para nuevas lagunas artificiales
+- Diseñar sistemas de captación de agua de lluvia para techos de la casa hacienda y otras infraestructuras
 
 #### Acciones a mediano plazo
-- Instalar sistemas de captación en techos de infraestructuras existentes
-- Construir pequeñas represas o atajados en puntos estratégicos
-- Desarrollar sistemas de captación de agua de escorrentía en caminos
+- Instalar sistemas de captación en techos de infraestructuras existentes (casa hacienda a 565 msnm)
+- Construir pequeñas represas o atajados en puntos estratégicos de las zonas altas
+- Desarrollar sistemas de captación de agua de escorrentía en caminos, siguiendo las líneas de pendiente natural
+- Implementar zanjas de infiltración en curvas de nivel en los potreros con mayor pendiente
 
 #### Acciones a largo plazo
-- Construir reservorios de mayor capacidad en puntos estratégicos
+- Construir reservorio principal en "La Lagunita" (598 msnm) para distribución por gravedad
+- Implementar reservorios secundarios en niveles intermedios (565-570 msnm)
 - Implementar sistemas de tratamiento primario para agua captada
-- Automatizar sistemas de captación y derivación
+- Automatizar sistemas de captación y derivación con monitoreo de niveles
 
 ### 3. Almacenamiento de Agua
 
 #### Acciones a corto plazo
-- Evaluar opciones de almacenamiento según topografía y necesidades
-- Diseñar sistema de reservorios estratégicamente ubicados
+- Evaluar el estado actual de las lagunas artificiales existentes y su capacidad de almacenamiento
+- Diseñar mejoras para las lagunas existentes (impermeabilización, ampliación, protección)
+- Diseñar sistema complementario de almacenamiento aprovechando el gradiente de altitud (103 metros)
+- Realizar estudio hidráulico para determinar capacidades óptimas según demanda y topografía
 
 #### Acciones a mediano plazo
-- Construir reservorios en puntos altos para distribución por gravedad
-- Implementar sistemas de impermeabilización en reservorios naturales
-- Instalar tanques de almacenamiento cerca de áreas críticas
+- Mejorar y ampliar las lagunas artificiales existentes:
+  - Laguna en "Buenos Aires" (564 msnm): ampliar capacidad y mejorar retención
+  - Laguna que abastece "La Gorra", "Lagunita" y "La Loma": optimizar como reservorio principal de zona alta
+  - Laguna que abastece "Simeoneño" y "La Loma": mejorar capacidad y protección
+- Construir tanques de almacenamiento complementarios en puntos estratégicos:
+  - Tanque elevado cerca de la casa hacienda (565 msnm) conectado al pozo
+  - Tanque de distribución para la zona baja cerca de "Coyoles" (551 msnm)
+- Implementar sistemas de impermeabilización en todas las lagunas artificiales
+- Instalar sistemas de filtrado y tratamiento básico en los puntos de captación
 
 #### Acciones a largo plazo
 - Ampliar capacidad de almacenamiento según resultados y necesidades
-- Implementar sistemas de monitoreo de niveles y calidad
-- Desarrollar infraestructura complementaria (filtros, decantadores)
+- Implementar sistemas automatizados de monitoreo de niveles y calidad
+- Desarrollar infraestructura complementaria (filtros, decantadores, válvulas reguladoras de presión)
+- Implementar sistema de respaldo para bombeo desde zonas bajas a altas en casos de emergencia
 
 ### 4. Distribución de Agua
 
 #### Acciones a corto plazo
-- Diseñar red de distribución para todos los potreros
-- Evaluar opciones de distribución por gravedad vs. bombeo
+- Evaluar el sistema actual de distribución desde el pozo principal a las pilas existentes
+- Diseñar sistema integrado de distribución que aproveche:
+  - El pozo existente para la zona baja y casa hacienda
+  - Las lagunas artificiales para las zonas media y alta
+- Realizar cálculos hidráulicos para optimizar la distribución por gravedad
+- Mapear rutas óptimas para tuberías siguiendo curvas de nivel
 
 #### Acciones a mediano plazo
-- Instalar tuberías principales de distribución
-- Establecer bebederos en todos los potreros con sistema de flotadores
-- Implementar sistemas de bombeo con energía solar donde sea necesario
+- Mejorar el sistema de bombeo del pozo principal con equipos más eficientes
+- Instalar sistema complementario de distribución por gravedad desde las lagunas artificiales:
+  - Desde la laguna que abastece "La Gorra", "Lagunita" y "La Loma" hacia los potreros de la zona alta
+  - Desde la laguna de "Buenos Aires" hacia potreros cercanos
+- Establecer red de tuberías con tres líneas principales:
+  - Línea alta: desde lagunas superiores para potreros de ganado parido (564-598 msnm)
+  - Línea media: combinando agua del pozo y lagunas para casa hacienda y terneros
+  - Línea baja: principalmente desde el pozo para potreros de ganado horro
+- Mejorar los bebederos existentes e instalar nuevos con sistema de flotadores en todos los potreros
+- Implementar sistema de respaldo con bombeo solar para emergencias
 
 #### Acciones a largo plazo
-- Automatizar sistemas de distribución
-- Implementar monitoreo de consumo por sectores
+- Automatizar sistemas de distribución con sensores de nivel y válvulas electrónicas
+- Implementar monitoreo digital de consumo por sectores y detección de fugas
 - Optimizar red según patrones de uso y eficiencia
+- Desarrollar sistema de control centralizado para toda la red hídrica
 
 ### 5. Uso Eficiente del Agua
 

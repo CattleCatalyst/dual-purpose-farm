@@ -26,9 +26,15 @@
 ## Recursos Disponibles
 
 - **Agua**: 
-  - Disponibilidad parcial en algunos potreros
-  - Pequeñas lagunas estacionales (no permanentes durante todo el año)
-  - [Pendiente inventario detallado de fuentes de agua]
+  - **Pozo principal**: Abastece agua a la casa hacienda y a una pila para el ganado
+  - **Pilas de agua**:
+    - Pila en casa hacienda con disponibilidad permanente
+    - Pila en potrero "La Huesera" con disponibilidad permanente
+    - Pila abastecida por el pozo principal que da servicio a los potreros: "El Tufo", "El Cenicero", "Los Coyoles" y "Pegado a los Coyoles"
+  - **Lagunas artificiales**:
+    - Laguna en potrero "Buenos Aires"
+    - Laguna que abastece los potreros: "La Gorra", "Lagunita" y "La Loma"
+    - Laguna que abastece los potreros: "Simeoneño" y "La Loma"
 
 - **Electricidad**: 
   - Disponible en algunos potreros

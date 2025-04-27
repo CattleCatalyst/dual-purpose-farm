@@ -40,7 +40,8 @@
 2. Implementar un programa de selección y mejoramiento genético
 3. Mejorar parámetros productivos (leche y carne) mediante genética adecuada
 4. Optimizar parámetros reproductivos del hato
-5. Desarrollar líneas genéticas adaptadas a las condiciones locales
+5. Desarrollar líneas genéticas adaptadas a las condiciones locales, considerando la topografía y disponibilidad de agua
+6. Seleccionar animales con mayor adaptabilidad a las diferentes zonas altitudinales de la finca
 
 ## Estrategias y Acciones
 
@@ -68,8 +69,14 @@
 
 #### Acciones a corto plazo
 - Definir el sistema de producción objetivo (doble propósito)
-- Establecer metas productivas realistas para condiciones locales
-- Seleccionar razas o cruces adecuados para el sistema
+- Establecer metas productivas realistas considerando:
+  - Condiciones locales de clima y alimentación
+  - Variación altitudinal de la finca (495-598 msnm)
+  - Disponibilidad de agua en diferentes zonas (pozo principal, lagunas artificiales, pilas)
+- Seleccionar razas o cruces adecuados para:
+  - Adaptación a terreno montañoso
+  - Tolerancia a variaciones de disponibilidad de agua
+  - Capacidad de aprovechamiento de pastos en diferentes altitudes
 
 #### Acciones a mediano plazo
 - Refinar objetivos de selección según resultados iniciales
@@ -102,16 +109,22 @@
 ### 4. Selección de Reproductores
 
 #### Acciones a corto plazo
-- Definir criterios de selección para toros y vacas
+- Definir criterios de selección para toros y vacas, incluyendo:
+  - Adaptabilidad a terreno montañoso (495-598 msnm)
+  - Capacidad de desplazamiento en pendientes
+  - Eficiencia en el uso del agua
+  - Resistencia a estrés hídrico
 - Identificar fuentes de material genético de calidad
-- Seleccionar razas y líneas apropiadas para doble propósito
+- Seleccionar razas y líneas apropiadas para doble propósito con adaptación a condiciones topográficas variables
 
 #### Acciones a mediano plazo
 - Adquirir semen de toros probados para características de interés:
-  - Razas lecheras: Gyr lechero, Girolando, Holstein tropical
-  - Razas de carne: Brahman, Senepol
-  - Razas doble propósito: Pardo Suizo, Simmental tropical
-- Seleccionar y mantener toros de respaldo para monta natural
+  - Razas lecheras adaptadas a trópico: Gyr lechero, Girolando
+  - Razas de carne con adaptación a terreno montañoso: Brahman, Senepol
+  - Razas doble propósito con buena capacidad de desplazamiento: Pardo Suizo, Simmental tropical
+  - Razas criollas con adaptación local: Reyna (si está disponible)
+- Seleccionar y mantener toros de respaldo para monta natural con buena capacidad de desplazamiento en terreno montañoso
+- Considerar la distribución de toros según las zonas altitudinales de la finca
 
 #### Acciones a largo plazo
 - Implementar pruebas de progenie para toros propios
@@ -124,11 +137,19 @@
 - Implementar diagnóstico de gestación rutinario
 - Establecer protocolos de manejo pre y post-parto
 - Capacitar personal en atención de partos
+- Diseñar estrategia de manejo reproductivo considerando:
+  - Ubicación de los potreros para ganado parido (principalmente en zonas altas, promedio 587 msnm)
+  - Acceso a fuentes de agua (lagunas artificiales en la zona alta)
+  - Distancia a instalaciones de manejo
 
 #### Acciones a mediano plazo
 - Implementar evaluación reproductiva de hembras y machos
 - Establecer protocolos para manejo de novillas de reemplazo
-- Desarrollar calendario reproductivo optimizado
+- Desarrollar calendario reproductivo optimizado considerando:
+  - Estacionalidad de las fuentes de agua (pozo principal y lagunas artificiales)
+  - Disponibilidad de forraje en diferentes zonas altitudinales
+  - Acceso a infraestructura de manejo
+- Planificar la distribución de partos para optimizar el uso de los potreros en zonas altas con mejor acceso a agua
 
 #### Acciones a largo plazo
 - Implementar tecnologías de monitoreo reproductivo
@@ -175,6 +196,10 @@
 - Porcentaje de partos distócicos
 - Tasa de reposición
 - Proporción de animales mejorados en el hato
+- Adaptabilidad de los animales a diferentes zonas altitudinales
+- Eficiencia en el uso del agua (producción por unidad de agua consumida)
+- Capacidad de desplazamiento en terreno montañoso
+- Resistencia a periodos de menor disponibilidad de agua
 
 ## Resultados Esperados
 
@@ -182,7 +207,10 @@
 - Incremento de 30-40% en producción de leche por vaca
 - Mejora de 20-30% en ganancia diaria de peso en terneros
 - Reducción de problemas reproductivos
-- Hato con composición genética definida y adaptada
+- Hato con composición genética definida y adaptada a las condiciones topográficas y de disponibilidad de agua
+- Mayor eficiencia en el aprovechamiento de los recursos hídricos disponibles
+- Mejor adaptación de los animales a las diferentes zonas altitudinales de la finca
+- Menor incidencia de problemas podales relacionados con el desplazamiento en terreno montañoso
 - Sistema de registros funcional para toma de decisiones
 
 ---

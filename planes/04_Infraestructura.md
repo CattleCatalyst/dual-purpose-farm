@@ -33,45 +33,59 @@
 3. Establecer sistemas de cercado eficientes para manejo de pastoreo
 4. Construir infraestructura para almacenamiento de insumos y productos
 5. Desarrollar infraestructura para manejo de agua y residuos
+6. Optimizar la infraestructura hídrica aprovechando la topografía de la finca
+7. Mejorar los sistemas de captación, almacenamiento y distribución de agua
 
 ## Estrategias y Acciones
 
-### 1. Centro de Manejo de Ganado
+### 1. Corrales de Manejo
 
 #### Acciones a corto plazo (0-6 meses)
-- Evaluar ubicación óptima para centro de manejo
-- Diseñar instalaciones según flujo de trabajo y bienestar animal
-- Planificar fases de construcción según prioridades
+- Realizar diseño de corrales con sistema de manejo en embudo
+- Evaluar ubicación óptima considerando:
+  - Accesibilidad y pendiente del terreno
+  - Proximidad a fuentes de agua (pozo principal)
+  - Facilidad para instalar sistema de drenaje aprovechando la pendiente natural
+- Seleccionar materiales duraderos y de fácil mantenimiento
+- Diseñar sistema de captación de agua de lluvia en techos de corrales
 
 #### Acciones a mediano plazo (6-18 meses)
-- Construir corral de manejo con:
-  - Manga de trabajo con piso antideslizante
-  - Cepo de contención seguro
-  - Báscula para pesaje
-  - Embudo y callejones de conducción
-- Implementar área techada para procedimientos veterinarios
-- Establecer corrales de espera y separación
+- Construir corrales con las siguientes áreas:
+  - Corral de recepción
+  - Manga de trabajo
+  - Área de tratamiento
+  - Báscula
+  - Embarcadero
+- Instalar techo en áreas críticas para trabajo en cualquier condición climática
+- Implementar piso de concreto en áreas de mayor tránsito
+- Instalar sistema de captación de agua de lluvia del techo hacia tanque de almacenamiento
 
 #### Acciones a largo plazo (18-36 meses)
 - Ampliar instalaciones según crecimiento del hato
 - Implementar sistemas de automatización (puertas, registros)
 - Desarrollar áreas especializadas (tratamientos, cuarentena)
 
-### 2. Sala de Ordeño y Procesamiento
+### 2. Sala de Ordeño
 
 #### Acciones a corto plazo
-- Evaluar sistema de ordeño actual
-- Diseñar sala de ordeño adaptada a condiciones y tamaño del hato
-- Planificar sistema de manejo de leche post-ordeño
+- Diseñar sala de ordeño tipo espina de pescado (2x4 o 2x6)
+- Evaluar ubicación considerando:
+  - Accesibilidad para vacas y operarios
+  - Proximidad al pozo principal y pila permanente
+  - Facilidad para instalar sistema de drenaje aprovechando la pendiente natural
+- Planificar sistema de drenaje y manejo de efluentes
+- Diseñar sistema de aprovechamiento de agua de lavado para riego de áreas de forraje
 
 #### Acciones a mediano plazo
 - Construir sala de ordeño con:
-  - Piso de concreto con drenaje adecuado
-  - Techo amplio con buena ventilación
-  - Comederos para suplementación durante ordeño
-  - Sistema de sujeción seguro y cómodo
-- Implementar sistema de ordeño mecánico básico
-- Establecer área de almacenamiento y enfriamiento de leche
+  - Piso de concreto con acabado antideslizante
+  - Techo con buena ventilación
+  - Sistema de comederos para suplementación durante el ordeño
+  - Área de espera techada
+  - Sistema eficiente de agua para lavado con ahorro hídrico
+  - Sistema de captación de agua de lluvia del techo
+- Instalar tanque de enfriamiento si el volumen de producción lo justifica
+- Implementar sistema de tratamiento de aguas residuales del ordeño
 
 #### Acciones a largo plazo
 - Ampliar capacidad según crecimiento del hato
@@ -139,21 +153,36 @@
 ### 6. Infraestructura para Agua
 
 #### Acciones a corto plazo
-- Diseñar sistema integral de agua para la finca
-- Priorizar áreas críticas para implementación inicial
+- Evaluar estado actual de las fuentes de agua existentes:
+  - Capacidad y sistema de bombeo del pozo principal
+  - Estado y capacidad de las pilas permanentes
+  - Condición y capacidad de las tres lagunas artificiales
+- Diseñar mejoras para las lagunas artificiales existentes:
+  - Laguna en potrero "Buenos Aires" (564 msnm)
+  - Laguna que abastece potreros "La Gorra", "Lagunita" y "La Loma"
+  - Laguna que abastece potreros "Simeoneño" y "La Loma"
+- Planificar sistema integrado de distribución por gravedad aprovechando la diferencia de altitud (103m)
+- Diseñar sistema de captación de agua de lluvia en techos de todas las infraestructuras
 
 #### Acciones a mediano plazo
-- Construir reservorios estratégicos
-- Implementar sistema de distribución con:
-  - Tuberías principales resistentes
-  - Bebederos en todos los potreros
-  - Sistemas de flotadores para control de nivel
-- Establecer puntos de agua en instalaciones de manejo
+- Mejorar infraestructura de las lagunas artificiales:
+  - Ampliar capacidad
+  - Reforzar paredes
+  - Implementar sistemas de impermeabilización
+  - Instalar sistemas de filtrado
+- Mejorar el sistema de bombeo del pozo principal
+- Instalar tanques de almacenamiento estratégicos:
+  - Tanque elevado cerca de la casa hacienda (565 msnm)
+  - Tanque de distribución para la zona baja cerca de "Coyoles" (551 msnm)
+- Instalar bebederos con flotadores en todos los potreros
+- Implementar sistemas de captación de agua de lluvia en techos
+- Construir red de tuberías para distribución por gravedad desde las lagunas superiores
+- Instalar sistema de respaldo con bombeo solar para emergencias
 
 #### Acciones a largo plazo
-- Implementar sistemas de bombeo con energía solar
-- Desarrollar sistemas de tratamiento de agua
-- Automatizar distribución y monitoreo
+- Optimizar sistema según resultados del pastoreo
+- Implementar sistemas automatizados de distribución de agua
+- Desarrollar sistema de monitoreo de calidad del agua
 
 ### 7. Infraestructura para Personal
 
@@ -177,7 +206,7 @@
 
 | Componente | Inversión Estimada | Prioridad |
 |------------|-------------------|-----------|
-| Centro de manejo | $$$ | Alta |
+| Corrales de manejo | $$$ | Alta |
 | Sala de ordeño | $$$ | Alta |
 | Instalaciones para terneros | $$ | Alta |
 | Sistema de cercado | $$$ | Alta |

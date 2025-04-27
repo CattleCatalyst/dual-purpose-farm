@@ -20,39 +20,69 @@
 
 ## Diagnóstico Actual
 
-- Hato de 120 animales (30 vacas en producción, 40 vacas horras, 50 terneros)
+### Composición del Hato
+- Hato total de 149 animales distribuidos en 4 lotes:
+  - Lote "Parido": 51 animales (1 macho, 50 hembras)
+  - Lote "Forro": 39 animales (5 machos, 34 hembras)
+  - Lote "Héctor": 6 animales (4 machos, 2 hembras)
+  - Lote "Terneros": 53 animales (27 machos, 26 hembras)
+
+### Condiciones Sanitarias
 - Sin información sobre protocolos sanitarios actuales
 - Sin datos sobre prevalencia de enfermedades
 - Sin información sobre programa de vacunación y desparasitación
 - Sin registros sanitarios individuales
 
+### Factores Ambientales Relevantes
+- Topografía montañosa con variación de altitud de 103 metros (495-598 msnm)
+- Diferentes fuentes de agua:
+  - Pozo principal que abastece la casa hacienda y potreros de la zona baja
+  - Tres lagunas artificiales en diferentes ubicaciones
+  - Pilas permanentes en casa hacienda y potrero "La Huesera"
+- Ganado parido ubicado principalmente en zonas altas (promedio 587 msnm)
+- Ganado horro ubicado principalmente en zonas bajas (promedio 519 msnm)
+
 ## Objetivos Específicos
 
-1. Implementar un programa integral de medicina preventiva
-2. Establecer protocolos de bioseguridad para la finca
+1. Implementar un programa integral de medicina preventiva adaptado a las diferentes zonas altitudinales
+2. Establecer protocolos de bioseguridad para la finca considerando las fuentes de agua existentes
 3. Desarrollar capacidad de diagnóstico y tratamiento oportuno
 4. Implementar sistema de registros sanitarios detallados
 5. Reducir incidencia de enfermedades y mortalidad en el hato
+6. Prevenir enfermedades asociadas a la calidad del agua y condiciones topográficas
+7. Establecer protocolos sanitarios específicos para cada zona altitudinal de la finca
 
 ## Estrategias y Acciones
 
 ### 1. Diagnóstico Sanitario Inicial
 
 #### Acciones a corto plazo (0-6 meses)
-- Realizar evaluación clínica general del hato
+- Realizar evaluación clínica general del hato, diferenciando por lotes y ubicación en la finca
 - Tomar muestras para diagnóstico de enfermedades prevalentes:
   - Brucelosis
   - Tuberculosis
   - Leptospirosis
-  - Parásitos internos y externos
+  - Parásitos internos y externos (con especial atención a parásitos asociados a fuentes de agua)
   - Mastitis subclínica
+- Evaluar calidad del agua en las diferentes fuentes:
+  - Pozo principal
+  - Tres lagunas artificiales
+  - Pilas permanentes
+- Identificar problemas sanitarios potencialmente relacionados con la topografía:
+  - Problemas podales en zonas de pendiente
+  - Lesiones por desplazamiento en terreno irregular
+  - Acceso a sombra en diferentes potreros
 - Evaluar estado nutricional y su relación con salud
-- Identificar principales problemas sanitarios
+- Identificar principales problemas sanitarios por zona altitudinal
 
 #### Acciones a mediano plazo (6-18 meses)
-- Establecer línea base de parámetros sanitarios
+- Establecer línea base de parámetros sanitarios por zona altitudinal:
+  - Zona baja (495-530 msnm): principalmente ganado horro
+  - Zona media (530-570 msnm): casa hacienda, terneros
+  - Zona alta (570-598 msnm): principalmente ganado parido
 - Implementar monitoreo periódico de indicadores clave
-- Desarrollar mapeo epidemiológico de la finca
+- Desarrollar mapeo epidemiológico de la finca considerando la topografía y fuentes de agua
+- Establecer correlación entre calidad de agua y problemas sanitarios
 
 #### Acciones a largo plazo (18-36 meses)
 - Implementar sistema de vigilancia epidemiológica
@@ -62,14 +92,19 @@
 ### 2. Programa de Medicina Preventiva
 
 #### Acciones a corto plazo
-- Diseñar calendario sanitario anual adaptado a condiciones locales
+- Diseñar calendario sanitario anual adaptado a condiciones locales y diferenciado por zonas altitudinales
 - Establecer protocolo de vacunación para enfermedades prioritarias:
   - Ántrax
   - Carbón sintomático
   - Septicemia hemorrágica
   - Rabia paralítica bovina
   - IBR/DVB (según prevalencia)
-- Desarrollar programa de desparasitación estratégica
+  - Leptospirosis (especialmente importante por las fuentes de agua)
+- Desarrollar programa de desparasitación estratégica considerando:
+  - Diferencias en carga parasitaria por zona altitudinal
+  - Presencia de parásitos asociados a fuentes de agua (Fasciola hepática, parásitos gastrointestinales)
+  - Rotación de productos para evitar resistencia
+- Implementar programa de control de vectores en zonas de agua estancada
 
 #### Acciones a mediano plazo
 - Implementar programa completo de vacunación
@@ -88,12 +123,21 @@
 - Diseñar protocolo básico de bioseguridad
 - Establecer procedimientos para ingreso de nuevos animales
 - Implementar medidas básicas de control de visitantes
+- Desarrollar protocolos específicos para la protección de fuentes de agua:
+  - Cercado de lagunas artificiales para evitar acceso directo del ganado
+  - Protección del pozo principal contra contaminación
+  - Mantenimiento de pilas para evitar acumulación de materia orgánica
+- Establecer zonas de aislamiento en diferentes áreas altitudinales de la finca
 
 #### Acciones a mediano plazo
-- Construir área de cuarentena para animales nuevos
+- Construir área de cuarentena para animales nuevos en zona aislada pero con acceso a agua de calidad
 - Implementar protocolos de desinfección de vehículos y equipos
 - Establecer procedimientos para personal y visitantes
-- Desarrollar plan de manejo de animales enfermos
+- Desarrollar plan de manejo de animales enfermos considerando la topografía:
+  - Áreas de aislamiento en diferentes zonas altitudinales
+  - Acceso a agua limpia para animales enfermos
+  - Facilidad de acceso para tratamientos
+- Implementar sistema de tratamiento de aguas residuales de áreas de manejo animal
 
 #### Acciones a largo plazo
 - Implementar sistema integral de bioseguridad
@@ -142,6 +186,10 @@
 - Evaluar estado reproductivo del hato
 - Implementar examen reproductivo básico
 - Establecer protocolo para atención de partos
+- Diseñar estrategia de manejo reproductivo considerando la distribución de potreros:
+  - Potreros para ganado parido ubicados principalmente en zonas altas (promedio 587 msnm)
+  - Acceso a fuentes de agua limpia para vacas preñadas y recién paridas
+  - Facilidad de acceso para atención de partos considerando la topografía
 
 #### Acciones a mediano plazo
 - Desarrollar programa de control de enfermedades reproductivas
@@ -187,10 +235,13 @@
 
 ## Indicadores de Seguimiento
 
-- Tasa de morbilidad general y por enfermedad
+- Tasa de morbilidad general y por enfermedad, diferenciada por zona altitudinal
 - Tasa de mortalidad por categoría
 - Cobertura de vacunación
-- Carga parasitaria en muestras periódicas
+- Carga parasitaria en muestras periódicas, diferenciada por zona altitudinal
+- Calidad del agua en las diferentes fuentes (análisis microbiologico y físico-químico)
+- Incidencia de problemas podales relacionados con el desplazamiento en terreno irregular
+- Incidencia de enfermedades transmitidas por agua
 - Incidencia de mastitis clínica y subclínica
 - Porcentaje de animales tratados por mes
 - Costos veterinarios por animal
@@ -206,6 +257,10 @@
 - Sistema funcional de registros sanitarios
 - Personal capacitado en detección temprana de problemas
 - Hato libre de enfermedades de control oficial
+- Calidad óptima del agua en todas las fuentes de la finca
+- Reducción de 80% en problemas podales relacionados con el terreno irregular
+- Disminución de 70% en enfermedades transmitidas por agua
+- Protocolos sanitarios específicos implementados para cada zona altitudinal
 
 ---
 

@@ -20,11 +20,23 @@
 
 ## Diagnóstico Actual
 
+### Características Generales
 - Finca de 200 manzanas con terreno predominantemente montañoso
+- Variación de altitud de 103 metros (495-598 msnm)
 - Sin información sobre áreas de conservación o bosques existentes
 - Sin datos sobre manejo de residuos y efluentes
 - Sin información sobre prácticas de conservación de suelos
 - Sin datos sobre fuentes de energía utilizadas
+
+### Recursos Hídricos
+- **Pozo principal** que abastece la casa hacienda y potreros de la zona baja
+- **Tres lagunas artificiales** ubicadas estratégicamente:
+  - Laguna en potrero "Buenos Aires" (564 msnm)
+  - Laguna que abastece potreros "La Gorra", "Lagunita" y "La Loma"
+  - Laguna que abastece potreros "Simeoneño" y "La Loma"
+- **Pilas permanentes** en casa hacienda y potrero "La Huesera"
+- Sin sistemas de protección de fuentes hídricas
+- Sin aprovechamiento de agua de lluvia
 
 ## Objetivos Específicos
 
@@ -39,12 +51,14 @@
 ### 1. Ordenamiento Territorial de la Finca
 
 #### Acciones a corto plazo (0-6 meses)
-- Realizar mapeo detallado de la finca (topografía, suelos, vegetación)
+- Complementar el mapeo topográfico existente (ya se cuenta con datos de altitud entre 495-598 msnm)
+- Realizar análisis de suelos en diferentes zonas altitudinales
 - Identificar áreas críticas para conservación:
-  - Fuentes de agua y zonas riparias
-  - Pendientes pronunciadas
+  - Zonas de recarga hídrica para las tres lagunas artificiales existentes
+  - Áreas circundantes al pozo principal
+  - Pendientes pronunciadas (especialmente en zonas altas sobre 580 msnm)
   - Remanentes de bosque
-- Zonificar la finca según vocación productiva y de conservación
+- Zonificar la finca según vocación productiva y de conservación, considerando el gradiente altitudinal
 
 #### Acciones a mediano plazo (6-18 meses)
 - Implementar plan de ordenamiento territorial:
@@ -109,22 +123,28 @@
 ### 4. Gestión del Agua
 
 #### Acciones a corto plazo
-- Identificar y caracterizar fuentes de agua
+- Evaluar el estado actual de las fuentes de agua existentes:
+  - Pozo principal que abastece la casa hacienda y potreros de la zona baja
+  - Tres lagunas artificiales existentes
+  - Pilas permanentes en casa hacienda y potrero "La Huesera"
 - Evaluar impactos actuales de la ganadería en recursos hídricos
-- Diseñar estrategias de protección y uso eficiente
+- Identificar áreas de recarga hídrica para las lagunas artificiales
+- Diseñar estrategias de protección y uso eficiente aprovechando la topografía
 
 #### Acciones a mediano plazo
 - Implementar protección de fuentes hídricas:
-  - Reforestación de zonas riparias
-  - Exclusión de ganado de fuentes directas
-  - Establecimiento de bebederos alejados
-- Desarrollar sistemas de captación y almacenamiento eficientes
-- Implementar monitoreo básico de calidad de agua
+  - Reforestación de zonas riparias y áreas de recarga de las lagunas artificiales
+  - Exclusión de ganado mediante cercado de las lagunas artificiales
+  - Mejoramiento de los bebederos existentes y establecimiento de nuevos bebederos
+- Desarrollar sistemas de captación de agua de lluvia en techos de infraestructuras
+- Implementar sistemas de distribución por gravedad aprovechando la diferencia de altitud (103m)
+- Establecer monitoreo básico de calidad de agua en el pozo y lagunas artificiales
 
 #### Acciones a largo plazo
-- Restaurar ciclos hidrológicos en microcuencas
-- Implementar sistemas de tratamiento de aguas residuales
-- Desarrollar plan integral de gestión hídrica
+- Restaurar ciclos hidrológicos en microcuencas que alimentan las lagunas artificiales
+- Implementar sistemas de tratamiento de aguas residuales del ordeño y áreas de manejo
+- Desarrollar plan integral de gestión hídrica con enfoque de microcuenca
+- Establecer sistemas de monitoreo avanzado de cantidad y calidad de agua
 
 ### 5. Manejo de Residuos y Efluentes
 
@@ -147,18 +167,23 @@
 ### 6. Conservación de Suelos
 
 #### Acciones a corto plazo
-- Realizar análisis de suelos y mapeo de erosión
-- Identificar áreas críticas de degradación
-- Diseñar prácticas adaptadas a condiciones locales
+- Realizar análisis de suelos y mapeo de erosión considerando el gradiente altitudinal (495-598 msnm)
+- Identificar áreas críticas de degradación, especialmente en pendientes pronunciadas
+- Evaluar patrones de escorrentía y erosión según la topografía
+- Diseñar prácticas adaptadas a las diferentes zonas altitudinales:
+  - Zona baja (495-530 msnm): principalmente potreros de ganado horro
+  - Zona media (530-570 msnm): casa hacienda, terneros y algunos potreros
+  - Zona alta (570-598 msnm): principalmente potreros de ganado parido
 
 #### Acciones a mediano plazo
-- Implementar prácticas de conservación:
-  - Establecimiento de barreras vivas
-  - Control de cárcavas
-  - Manejo de cobertura permanente
-  - Rotación optimizada de potreros
-- Desarrollar plan de fertilización orgánica
-- Establecer monitoreo de salud de suelos
+- Implementar prácticas de conservación diferenciadas por zona altitudinal:
+  - Establecimiento de barreras vivas siguiendo curvas de nivel
+  - Control de cárcavas en zonas de mayor pendiente
+  - Manejo de cobertura permanente, especialmente en zonas altas
+  - Rotación optimizada de potreros según capacidad de carga por zona
+- Implementar obras de control de escorrentía aprovechando la topografía
+- Desarrollar plan de fertilización orgánica adaptado a cada zona
+- Establecer monitoreo de salud de suelos en diferentes altitudes
 
 #### Acciones a largo plazo
 - Implementar prácticas regenerativas de suelos
@@ -170,15 +195,19 @@
 #### Acciones a corto plazo
 - Evaluar consumo energético actual
 - Identificar oportunidades de eficiencia
-- Diseñar sistema energético sostenible
+- Diseñar sistema energético sostenible aprovechando recursos naturales:
+  - Energía solar para operaciones críticas
+  - Sistemas de bombeo y distribución de agua por gravedad aprovechando la diferencia de altitud (103m)
 
 #### Acciones a mediano plazo
 - Implementar medidas de eficiencia energética
 - Instalar sistemas solares para operaciones críticas:
-  - Bombeo de agua
+  - Bombeo de agua desde el pozo principal
+  - Sistema de respaldo para distribución de agua
   - Cercas eléctricas
   - Iluminación
-- Desarrollar aprovechamiento de biogás
+- Desarrollar aprovechamiento de biogás a partir de excretas del área de ordeño
+- Implementar sistemas de distribución de agua por gravedad desde las lagunas artificiales en zonas altas
 
 #### Acciones a largo plazo
 - Expandir sistemas de energía renovable
@@ -209,10 +238,12 @@
 |------------|-------------------|-----------|
 | Sistemas silvopastoriles | $$$ | Alta |
 | Protección de fuentes hídricas | $$ | Alta |
+| Mejoramiento de lagunas artificiales | $$ | Alta |
+| Sistemas de distribución por gravedad | $$ | Alta |
 | Biodigestores | $$ | Media |
-| Conservación de suelos | $$ | Alta |
+| Conservación de suelos por zonas altitudinales | $$ | Alta |
 | Energía solar | $$$ | Media |
-| Reforestación | $$ | Alta |
+| Reforestación de zonas de recarga | $$ | Alta |
 | Certificación | $$ | Baja |
 | Capacitación | $ | Alta |
 
@@ -220,8 +251,10 @@
 
 - Porcentaje de área bajo sistemas silvopastoriles
 - Superficie de bosques conservados y restaurados
-- Calidad de agua en puntos críticos
-- Indicadores de salud de suelo
+- Calidad de agua en puntos críticos (pozo principal y lagunas artificiales)
+- Capacidad de almacenamiento de agua en lagunas artificiales
+- Eficiencia de los sistemas de distribución por gravedad
+- Indicadores de salud de suelo por zona altitudinal
 - Biodiversidad en áreas de conservación
 - Emisiones de gases de efecto invernadero
 - Consumo energético por unidad producida
@@ -231,12 +264,14 @@
 
 - Aumento de cobertura arbórea en al menos 30% de la finca
 - Mejora significativa en calidad y disponibilidad de agua
-- Reducción de erosión y mejora en salud de suelos
+- Optimización del uso de las fuentes hídricas existentes (pozo y lagunas artificiales)
+- Aprovechamiento eficiente de la topografía para la distribución de agua por gravedad
+- Reducción de erosión y mejora en salud de suelos en todas las zonas altitudinales
 - Disminución de impacto ambiental de la operación
 - Aprovechamiento productivo de residuos
 - Reducción de huella de carbono
 - Mejora en imagen y acceso a mercados diferenciados
-- Aumento de resiliencia ante cambio climático
+- Aumento de resiliencia ante cambio climático y eventos extremos
 
 ---
 
