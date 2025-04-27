@@ -2,7 +2,15 @@
 
 ## Diagnóstico Actual
 
-- Hato de 120 animales (30 vacas en producción, 40 vacas horras, 50 terneros)
+### Composición del Hato
+
+- Hato total de 149 animales distribuidos en 4 lotes:
+  - Lote "Parido": 51 animales (1 macho, 50 hembras)
+  - Lote "Forro": 39 animales (5 machos, 34 hembras)
+  - Lote "Héctor": 6 animales (4 machos, 2 hembras)
+  - Lote "Terneros": 53 animales (27 machos, 26 hembras)
+- Distribución por categoría: 51 animales paridos, 45 animales horros, 53 terneros
+- Proporción de sexos: 25% machos (37) y 75% hembras (112)
 - Sin información detallada sobre razas o cruces predominantes
 - Sin datos sobre parámetros reproductivos actuales
 - Sin información sobre sistema de reproducción utilizado

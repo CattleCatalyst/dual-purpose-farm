@@ -5,8 +5,10 @@ Este repositorio contiene la documentación y planificación para la mejora de u
 ## Contenido
 
 1. [Información General de la Finca](./01_InformacionGeneral.md)
-2. [Diagnóstico Actual](./02_DiagnosticoActual.md)
-3. [Plan de Mejora](./03_PlanDeMejora.md)
+2. [Plano de la Finca y Distribución de Potreros](./plano_finca.md)
+3. [Inventario de Ganado](./inventario_ganado.md)
+4. [Diagnóstico Actual](./02_DiagnosticoActual.md)
+5. [Plan de Mejora](./03_PlanDeMejora.md)
    - [Manejo de Pastos y Alimentación](./planes/01_ManejoDePasstos.md)
    - [Gestión del Agua](./planes/02_GestionDelAgua.md)
    - [Mejoramiento Genético](./planes/03_MejoramientoGenetico.md)
@@ -14,9 +16,9 @@ Este repositorio contiene la documentación y planificación para la mejora de u
    - [Sanidad Animal](./planes/05_SanidadAnimal.md)
    - [Gestión Administrativa](./planes/06_GestionAdministrativa.md)
    - [Sostenibilidad Ambiental](./planes/07_SostenibilidadAmbiental.md)
-4. [Cronograma de Implementación](./04_CronogramaImplementacion.md)
-5. [Presupuesto](./05_Presupuesto.md)
-6. [Recursos y Referencias](./06_RecursosReferencias.md)
+6. [Cronograma de Implementación](./04_CronogramaImplementacion.md)
+7. [Presupuesto](./05_Presupuesto.md)
+8. [Recursos y Referencias](./06_RecursosReferencias.md)
 
 ## Cómo Usar Esta Documentación
 
