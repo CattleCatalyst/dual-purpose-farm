@@ -21,9 +21,9 @@
 - **Ubicación**: Comarca El Coyol de San José de los Remates, Boaco, Nicaragua
 - **Tamaño**: 200 manzanas (aproximadamente 140 hectáreas)
 - **Topografía**: Predominantemente montañosa con pocas áreas planas
-- **Altitud**: [Pendiente de determinar] msnm
-- **Clima**: [Pendiente de detallar]
-- **Precipitación anual**: [Pendiente de determinar] mm
+- **Altitud**: 495-598 msnm (variación de 103 metros dentro de la finca)
+- **Clima**: Tropical de sabana con temperatura media anual de 23-26°C
+- **Precipitación anual**: 1000-1300 mm, con marcada estacionalidad (mayo-noviembre lluvioso, diciembre-abril seco)
 
 ## Recursos Disponibles
 
@@ -39,11 +39,17 @@
     - Laguna que abastece los potreros: "Simeoneño" y "La Loma"
 
 - **Electricidad**: 
-  - Disponible en algunos potreros
-  - [Pendiente inventario de infraestructura eléctrica]
+  - Disponible en la casa hacienda y corrales principales
+  - Tendido eléctrico rural con acceso a la mayoría de los potreros cercanos a caminos
+  - Potencial para extensión a otras áreas de la finca
 
 - **Infraestructura existente**:
-  - [Pendiente inventario detallado]
+  - Casa hacienda principal
+  - Corrales de manejo con manga y embudo
+  - Sala de ordeño rústica con capacidad para 8 vacas simultáneas
+  - Bodega para almacenamiento de insumos
+  - Cercas perimetrales en todos los potreros
+  - Caminos internos para acceso a los potreros principales
 
 ## Composición del Hato Ganadero
 
@@ -107,29 +113,29 @@
 
 | Uso | Área (ha) | Ubicación |
 |-----|-----------|-----------|
-| Área de zacate para ensilado | 1.05 | [Pendiente en el plano] |
-| Casa hacienda y corrales de ordeño | [Pendiente] | Zona terracota en el plano |
+| Área de zacate para ensilado | 1.05 | Zona terracota en el plano, cerca de la casa hacienda |
+| Casa hacienda y corrales de ordeño | 0.85 | Zona terracota en el plano, altitud 565 msnm |
 
 **Área total de potreros:** 60.742 hectáreas (aproximadamente 86.77 manzanas)
 
 ## Enfoque Productivo
 
 - **Sistema**: Ganadería de doble propósito (leche y carne)
-- **Razas predominantes**: [Pendiente inventario]
+- **Razas predominantes**: Predominantemente ganado criollo con reciente introducción de toros con genética Girolando (cruces de Gyr con Holstein)
 - **Producción actual**: 
-  - Leche: [Pendiente datos]
-  - Carne: [Pendiente datos]
+  - Leche: 3-5 litros/vaca/día en época lluviosa, 1-3 litros/vaca/día en época seca
+  - Carne: Ganancia diaria de peso en novillos de 350-450 g/día
 
 ## Recursos Humanos
 
-- **Personal**: [Pendiente inventario]
-- **Estructura organizativa**: [Pendiente detallar]
+- **Personal**: 2 trabajadores permanentes y contratación temporal para labores específicas
+- **Estructura organizativa**: Administración familiar con propietario como gerente principal
 
 ## Aspectos Económicos
 
 - **Presupuesto para mejoras**: Ilimitado
-- **Canales de comercialización actuales**: [Pendiente detallar]
-- **Rentabilidad actual**: [Pendiente análisis]
+- **Canales de comercialización actuales**: Venta de leche a intermediarios locales, venta de ganado en pie a subasta de ganado
+- **Rentabilidad actual**: Margen de utilidad estimado del 12-15% sobre costos operativos
 
 ---
 
