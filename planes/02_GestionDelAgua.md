@@ -1,5 +1,23 @@
 # Plan de Gestión del Agua
 
+## Índice de Navegación
+
+- [Inicio](../README.md)
+- [Plan General de Mejora](../03_PlanDeMejora.md)
+- [Información General](../01_InformacionGeneral.md)
+- [Plano de la Finca](../plano_finca.md)
+- [Inventario de Ganado](../inventario_ganado.md)
+
+### Otros Planes Específicos
+- [Manejo de Pastos y Alimentación](./01_ManejoDePasstos.md)
+- [Mejoramiento Genético](./03_MejoramientoGenetico.md)
+- [Infraestructura](./04_Infraestructura.md)
+- [Sanidad Animal](./05_SanidadAnimal.md)
+- [Gestión Administrativa](./06_GestionAdministrativa.md)
+- [Sostenibilidad Ambiental](./07_SostenibilidadAmbiental.md)
+
+---
+
 ## Diagnóstico Actual
 
 - Disponibilidad parcial de agua en algunos potreros

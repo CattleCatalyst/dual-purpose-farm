@@ -1,5 +1,23 @@
 # Plan de Manejo de Pastos y Alimentación
 
+## Índice de Navegación
+
+- [Inicio](../README.md)
+- [Plan General de Mejora](../03_PlanDeMejora.md)
+- [Información General](../01_InformacionGeneral.md)
+- [Plano de la Finca](../plano_finca.md)
+- [Inventario de Ganado](../inventario_ganado.md)
+
+### Otros Planes Específicos
+- [Gestión del Agua](./02_GestionDelAgua.md)
+- [Mejoramiento Genético](./03_MejoramientoGenetico.md)
+- [Infraestructura](./04_Infraestructura.md)
+- [Sanidad Animal](./05_SanidadAnimal.md)
+- [Gestión Administrativa](./06_GestionAdministrativa.md)
+- [Sostenibilidad Ambiental](./07_SostenibilidadAmbiental.md)
+
+---
+
 ## Diagnóstico Actual
 
 - 13 potreros distribuidos entre diferentes categorías de animales

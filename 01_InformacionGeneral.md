@@ -15,7 +15,7 @@
 
 ## Ubicación y Características Físicas
 
-- **Nombre de la Finca**: [Pendiente de asignar]
+- **Nombre de la Finca**: El Cristal
 - **Ubicación**: Comarca El Coyol de San José de los Remates, Boaco, Nicaragua
 - **Tamaño**: 200 manzanas (aproximadamente 140 hectáreas)
 - **Topografía**: Predominantemente montañosa con pocas áreas planas
