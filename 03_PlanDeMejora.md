@@ -10,6 +10,8 @@
 - [Cronograma de Implementación](./04_CronogramaImplementacion.md)
 - [Presupuesto](./05_Presupuesto.md)
 - [Recursos y Referencias](./06_RecursosReferencias.md)
+- [Contexto Regional](./07_ContextoRegional.md)
+- [Oportunidades de Comercialización](./08_OportunidadesComercializacion.md)
 
 ### Planes Específicos
 - [Manejo de Pastos y Alimentación](./planes/01_ManejoDePasstos.md)
