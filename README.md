@@ -19,6 +19,8 @@ Este repositorio contiene la documentación y planificación para la mejora de u
 6. [Cronograma de Implementación](./04_CronogramaImplementacion.md)
 7. [Presupuesto](./05_Presupuesto.md)
 8. [Recursos y Referencias](./06_RecursosReferencias.md)
+9. [Contexto Regional](./07_ContextoRegional.md)
+10. [Oportunidades de Comercialización](./08_OportunidadesComercializacion.md)
 
 ## Cómo Usar Esta Documentación
 
@@ -27,9 +29,10 @@ Esta documentación está diseñada para ser interactiva y actualizable. Cada ar
 ## Próximos Pasos
 
 1. Revisar el diagnóstico actual y validar la información
-2. Priorizar las áreas de mejora según necesidades inmediatas
-3. Comenzar la implementación del plan por fases
-4. Actualizar la documentación con los avances y resultados
+2. Analizar el contexto regional para identificar oportunidades adicionales
+3. Priorizar las áreas de mejora según necesidades inmediatas
+4. Comenzar la implementación del plan por fases
+5. Actualizar la documentación con los avances y resultados
 
 ## Contacto
 
@@ -37,4 +40,4 @@ Para cualquier consulta o actualización de esta documentación, contactar al ad
 
 ---
 
-*Última actualización: 26 de abril de 2025*
+*Última actualización: 27 de abril de 2025 (10:59)*

@@ -25,17 +25,23 @@
 - Potreros de ganado parido ubicados en las zonas más altas (promedio 587 msnm)
 - Potreros de ganado horro ubicados en las zonas más bajas (promedio 519 msnm)
 - Potreros de terneros en altitud intermedia (promedio 522.5 msnm)
-- Información limitada sobre especies de pastos existentes
-- Sin datos sobre capacidad de carga actual
-- Sin información sobre suplementación actual
+- Predominio de pastos naturalizados con baja productividad
+- Pendientes de 8-15% en la mayoría de los potreros, lo que limita la mecanización
+- Suelos tipo Inceptisoles y Entisoles, vulnerables a erosión
+- Estacionalidad marcada: época lluviosa (mayo-noviembre) y seca (diciembre-abril)
+- Capacidad de carga actual estimada en 0.8-1.0 unidades animales/ha
+- Suplementación actual limitada a sales minerales y algunos subproductos agrícolas
 
 ## Objetivos Específicos
 
 1. Aumentar la disponibilidad y calidad de forraje durante todo el año
-2. Incrementar la capacidad de carga animal por unidad de área
+2. Incrementar la capacidad de carga animal por unidad de área (meta: 1.5-2.0 UA/ha)
 3. Optimizar el uso de los recursos forrajeros disponibles
 4. Implementar sistemas de alimentación diferenciados por categoría animal
 5. Reducir la dependencia de insumos externos
+6. Establecer especies forrajeras adaptadas a las condiciones edafoclimáticas locales
+7. Implementar prácticas de conservación de suelos en áreas con pendiente
+8. Desarrollar sistemas de producción de forraje para época seca
 
 ## Estrategias y Acciones
 
@@ -48,19 +54,19 @@
 - Diseñar plan de establecimiento de pastos mejorados adaptados a cada nivel altitudinal
 
 #### Acciones a mediano plazo (6-18 meses)
-- Establecer pastos mejorados adaptados a cada zona altitudinal:
+- Establecer pastos mejorados adaptados a cada zona altitudinal, priorizando especies recomendadas para la región:
   - Zonas altas (564-598 msnm - ganado parido):
-    - Ryegrass (Lolium multiflorum) en áreas más frescas
-    - Kikuyo (Pennisetum clandestinum) en áreas con buena humedad
-    - Brachiaria brizantha cv. Toledo en áreas menos húmedas
+    - **Brachiaria brizantha cv. Toledo (Pasto Toledo)**: Excelente para zonas de ladera, tolera suelos ácidos, alta producción de biomasa (20-25 ton MS/ha/año)
+    - **Panicum maximum cv. Tanzania**: Alto rendimiento (25-30 ton MS/ha/año), buena palatabilidad, ideal para ganado lechero
+    - **Brachiaria híbrido cv. Mulato II**: Tolerante a sequía, alto valor nutritivo (10-12% proteína), excelente para producción de leche
   - Zonas intermedias (520-565 msnm - terneros y casa hacienda):
-    - Brachiaria brizantha cv. Marandú
-    - Panicum maximum cv. Tanzania
-    - Mezclas de gramíneas y leguminosas
+    - **Brachiaria brizantha cv. Marandú**: Resistente al pisoteo, buena cobertura de suelo, ideal para control de erosión en pendientes
+    - **Panicum maximum cv. Mombasa**: Alta producción de biomasa, rápida recuperación después del pastoreo
+    - **Mezclas de gramíneas y leguminosas**: Centrosema (Centrosema pubescens) y Brachiaria para mejorar calidad nutritiva
   - Zonas bajas (495-551 msnm - ganado horro):
-    - Panicum maximum cv. Mombasa (más tolerante al calor)
-    - Brachiaria decumbens en áreas más inclinadas
-    - Brachiaria humidicola en áreas con tendencia a encharcamiento
+    - **Brachiaria decumbens**: Excelente para áreas inclinadas, tolerante a suelos pobres, buena cobertura para control de erosión
+    - **Brachiaria humidicola**: Ideal para áreas con tendencia a encharcamiento, tolerante a suelos ácidos
+    - **Pasto Estrella (Cynodon nlemfuensis)**: Resistente al pisoteo, buena cobertura, ideal para ganado joven
 - Implementar programa de fertilización diferenciado por zona altitudinal y basado en análisis de suelos
 - Establecer control de malezas y renovación de pasturas con técnicas adaptadas a cada pendiente
 
@@ -73,12 +79,14 @@
 
 #### Acciones a corto plazo
 - Identificar áreas prioritarias para sistemas silvopastoriles, con énfasis en:
-  - Zonas con mayor pendiente para control de erosión
+  - Zonas con mayor pendiente para control de erosión (pendientes 8-15%)
   - Líneas divisorias entre niveles altitudinales para crear corredores ecológicos
   - Áreas de transición entre potreros
+  - Zonas de protección de fuentes hídricas (pozos, pilas y lagunas artificiales)
 - Seleccionar especies arbóreas y arbustivas adaptadas a cada nivel altitudinal:
-  - Zonas altas (564-598 msnm): especies más tolerantes a condiciones frescas
-  - Zonas intermedias y bajas (495-565 msnm): especies más tolerantes a condiciones cálidas
+  - **Leguminosas forrajeras recomendadas para la región**: Leucaena (Leucaena leucocephala), Madero Negro (Gliricidia sepium), Guanacaste (Enterolobium cyclocarpum)
+  - **Árboles maderables con valor forrajero**: Guanacaste, Genizaro (Samanea saman), Guacimo (Guazuma ulmifolia)
+  - **Árboles frutales multipropósito**: Jocote (Spondias purpurea), Mango (Mangifera indica), Nancite (Byrsonima crassifolia)
 
 #### Acciones a mediano plazo
 - Establecer cercas vivas con especies adaptadas a cada nivel altitudinal:
@@ -103,26 +111,32 @@
 ### 3. Establecimiento de Bancos Forrajeros
 
 #### Acciones a corto plazo
-- Identificar áreas estratégicas para bancos forrajeros considerando la topografía:
-  - Bancos de proteína: preferentemente en zonas intermedias con acceso fácil (520-565 msnm)
+- Identificar áreas potenciales para bancos forrajeros:
+  - Bancos de proteína: en zonas intermedias y altas con mejor humedad (520-598 msnm)
   - Bancos de energía: en zonas bajas con mayor temperatura (495-520 msnm)
   - Área actual de zacate para ensilado: evaluar potencial de expansión
-- Seleccionar especies adecuadas para cada nivel altitudinal
+- Seleccionar especies adecuadas para cada nivel altitudinal, priorizando las recomendadas para la región:
+  - **Pastos de corte**: King Grass, Cuba CT-115, Camerun Morado (Pennisetum purpureum)
+  - **Cañas forrajeras**: Caña de azúcar, Sorgo forrajero BMR (Sorghum bicolor)
+  - **Leguminosas arbustivas**: Cratylia (Cratylia argentea), Morera (Morus alba)
 
 #### Acciones a mediano plazo
 - Establecer bancos de proteína con especies adaptadas a cada zona:
   - Zonas intermedias y altas (>550 msnm):
-    - Morera (Morus alba)
-    - Botón de oro (Tithonia diversifolia)
-    - Nacedero (Trichanthera gigantea) en áreas húmedas
-  - Zonas bajas e intermedias (<550 msnm):
-    - Cratylia (Cratylia argentea)
-    - Leucaena (Leucaena leucocephala)
+    - **Morera (Morus alba)**: Alto contenido proteico (15-25%), excelente digestibilidad (>80%), producción 15-25 ton MS/ha/año
+    - **Botón de oro (Tithonia diversifolia)**: 14-28% proteína, alta palatabilidad, rápido rebrote
+    - **Nacedero (Trichanthera gigantea)**: Ideal para áreas húmedas, 15-22% proteína, tolerante a sombra
+  - Zonas bajas (<550 msnm):
+    - **Leucaena (Leucaena leucocephala)**: 22-30% proteína, fijadora de nitrógeno, tolera sequía
+    - **Cratylia (Cratylia argentea)**: 18-25% proteína, excelente para época seca, tolera suelos ácidos
+    - **Guanacaste (Enterolobium cyclocarpum)**: Frutos con 15-18% proteína, sombra para ganado, mejora microclima)
     - Guandul (Cajanus cajan)
-- Establecer bancos de energía en zonas bajas:
-  - Caña de azúcar (Saccharum officinarum)
-  - King grass (Pennisetum purpureum x Pennisetum typhoides)
-  - Pasto Guatemala (Tripsacum laxum) en áreas húmedas
+- Establecer bancos de energía con especies de alto rendimiento:
+  - **Caña de azúcar (Saccharum officinarum)**: Alto contenido energético, producción 80-120 ton/ha/año, ideal para época seca
+  - **King grass (Pennisetum purpureum x P. typhoides)**: Producción 70-100 ton/ha/año, 8-10% proteína, cortes cada 45-60 días
+  - **Cuba CT-115 (Pennisetum purpureum)**: Variedad de porte bajo (1.5-1.8 m), ideal para pastoreo directo o corte, tolerante a sequía
+  - **Sorgo forrajero BMR (Sorghum bicolor)**: Bajo contenido de lignina, alta digestibilidad, tolerante a sequía
+  - **Pasto Guatemala (Tripsacum laxum)** en áreas húmedas
 - Ubicar los bancos forrajeros estratégicamente para facilitar la distribución por gravedad del material cosechado
 
 #### Acciones a largo plazo
@@ -222,11 +236,16 @@
 
 ## Resultados Esperados
 
-- Incremento de 30-50% en la capacidad de carga animal
+- Incremento de 30-50% en la capacidad de carga animal (de 0.8-1.0 UA/ha actual a 1.5-2.0 UA/ha)
 - Reducción de 40% en costos de alimentación externa
-- Disponibilidad de forraje de calidad durante todo el año
-- Mejora en condición corporal de los animales
-- Aumento en producción de leche y ganancia de peso
+- Disponibilidad de forraje de calidad durante todo el año, incluyendo época seca
+- Mejora en condición corporal de los animales (de 2.5-3.0 a 3.5-4.0 en escala 1-5)
+- Aumento en producción de leche (de 3-5 litros/vaca/día a 5-8 litros/vaca/día en época lluviosa)
+- Incremento en ganancia diaria de peso (de 350-450 g/día a 550-650 g/día en novillos)
+- Reducción de la erosión del suelo en áreas con pendiente
+- Mejora en la retención de humedad del suelo
+- Establecimiento de al menos 3 hectáreas de sistemas silvopastoriles
+- Producción de al menos 30 toneladas de forraje conservado para época seca
 
 ---
 

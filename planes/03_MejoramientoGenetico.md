@@ -73,10 +73,13 @@
   - Condiciones locales de clima y alimentación
   - Variación altitudinal de la finca (495-598 msnm)
   - Disponibilidad de agua en diferentes zonas (pozo principal, lagunas artificiales, pilas)
+  - Estacionalidad de la producción (menor producción en verano)
 - Seleccionar razas o cruces adecuados para:
   - Adaptación a terreno montañoso
   - Tolerancia a variaciones de disponibilidad de agua
   - Capacidad de aprovechamiento de pastos en diferentes altitudes
+  - Resistencia al calor y a períodos de escasez de forraje
+- Mantener un mínimo de 50% de genética cebuina (Brahman o similar) en el hato para garantizar resistencia
 
 #### Acciones a mediano plazo
 - Refinar objetivos de selección según resultados iniciales
@@ -122,9 +125,10 @@
   - Razas lecheras adaptadas a trópico: Gyr lechero, Girolando
   - Razas de carne con adaptación a terreno montañoso: Brahman, Senepol
   - Razas doble propósito con buena capacidad de desplazamiento: Pardo Suizo, Simmental tropical
-  - Razas criollas con adaptación local: Reyna (si está disponible)
+  - **Raza Criolla Nicaragüense (Reyna)**: Desarrollada en Nicaragua, adaptada a calor extremo y pastos pobres, puede producir hasta 8 litros de leche con 4.5% de grasa en condiciones tropicales secas, con buen rendimiento cárnico y longevidad
 - Seleccionar y mantener toros de respaldo para monta natural con buena capacidad de desplazamiento en terreno montañoso
 - Considerar la distribución de toros según las zonas altitudinales de la finca
+- Implementar esquema de cruces 50% cebú x 50% europeo para lograr equilibrio entre rusticidad y producción
 
 #### Acciones a largo plazo
 - Implementar pruebas de progenie para toros propios
@@ -204,13 +208,15 @@
 ## Resultados Esperados
 
 - Reducción del intervalo entre partos a 13-14 meses
-- Incremento de 30-40% en producción de leche por vaca
+- Incremento de 30-40% en producción de leche por vaca (alcanzando 5-8 litros diarios en época lluviosa)
 - Mejora de 20-30% en ganancia diaria de peso en terneros
 - Reducción de problemas reproductivos
 - Hato con composición genética definida y adaptada a las condiciones topográficas y de disponibilidad de agua
 - Mayor eficiencia en el aprovechamiento de los recursos hídricos disponibles
 - Mejor adaptación de los animales a las diferentes zonas altitudinales de la finca
 - Menor incidencia de problemas podales relacionados con el desplazamiento en terreno montañoso
+- Vacas capaces de mantener producción mínima durante la época seca
+- Terneros con mayor peso al destete
 - Sistema de registros funcional para toma de decisiones
 
 ---
