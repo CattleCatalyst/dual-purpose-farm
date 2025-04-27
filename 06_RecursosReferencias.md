@@ -1,5 +1,27 @@
 # Recursos y Referencias
 
+## Índice de Navegación
+
+- [Inicio](./README.md)
+- [Información General](./01_InformacionGeneral.md)
+- [Plano de la Finca](./plano_finca.md)
+- [Inventario de Ganado](./inventario_ganado.md)
+- [Diagnóstico Actual](./02_DiagnosticoActual.md)
+- [Plan de Mejora](./03_PlanDeMejora.md)
+- [Cronograma de Implementación](./04_CronogramaImplementacion.md)
+- [Presupuesto](./05_Presupuesto.md)
+
+### Planes Específicos
+- [Manejo de Pastos y Alimentación](./planes/01_ManejoDePasstos.md)
+- [Gestión del Agua](./planes/02_GestionDelAgua.md)
+- [Mejoramiento Genético](./planes/03_MejoramientoGenetico.md)
+- [Infraestructura](./planes/04_Infraestructura.md)
+- [Sanidad Animal](./planes/05_SanidadAnimal.md)
+- [Gestión Administrativa](./planes/06_GestionAdministrativa.md)
+- [Sostenibilidad Ambiental](./planes/07_SostenibilidadAmbiental.md)
+
+---
+
 Este documento proporciona una lista de recursos y referencias útiles para la implementación del plan de mejora de la finca ganadera. Incluye contactos institucionales, bibliografía recomendada, proveedores potenciales y herramientas digitales.
 
 ## Instituciones y Contactos

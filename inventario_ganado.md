@@ -1,5 +1,18 @@
 # Inventario de Ganado
 
+## Índice de Navegación
+
+- [Inicio](./README.md)
+- [Información General](./01_InformacionGeneral.md)
+- [Plano de la Finca](./plano_finca.md)
+- [Diagnóstico Actual](./02_DiagnosticoActual.md)
+- [Plan de Mejora](./03_PlanDeMejora.md)
+- [Cronograma de Implementación](./04_CronogramaImplementacion.md)
+- [Presupuesto](./05_Presupuesto.md)
+- [Recursos y Referencias](./06_RecursosReferencias.md)
+
+---
+
 ## Inventario Actual (Abril 2025)
 
 ### Distribución por Lotes

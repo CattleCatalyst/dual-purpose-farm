@@ -1,5 +1,18 @@
 # Información General de la Finca
 
+## Índice de Navegación
+
+- [Inicio](./README.md)
+- [Plano de la Finca](./plano_finca.md)
+- [Inventario de Ganado](./inventario_ganado.md)
+- [Diagnóstico Actual](./02_DiagnosticoActual.md)
+- [Plan de Mejora](./03_PlanDeMejora.md)
+- [Cronograma de Implementación](./04_CronogramaImplementacion.md)
+- [Presupuesto](./05_Presupuesto.md)
+- [Recursos y Referencias](./06_RecursosReferencias.md)
+
+---
+
 ## Ubicación y Características Físicas
 
 - **Nombre de la Finca**: [Pendiente de asignar]

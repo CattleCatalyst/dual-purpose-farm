@@ -1,5 +1,18 @@
 # Plano de la Finca y Distribución de Potreros
 
+## Índice de Navegación
+
+- [Inicio](./README.md)
+- [Información General](./01_InformacionGeneral.md)
+- [Inventario de Ganado](./inventario_ganado.md)
+- [Diagnóstico Actual](./02_DiagnosticoActual.md)
+- [Plan de Mejora](./03_PlanDeMejora.md)
+- [Cronograma de Implementación](./04_CronogramaImplementacion.md)
+- [Presupuesto](./05_Presupuesto.md)
+- [Recursos y Referencias](./06_RecursosReferencias.md)
+
+---
+
 ## Plano General
 
 ![Plano de la Finca](./imagenes/plano_finca.png)

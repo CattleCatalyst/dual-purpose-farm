@@ -1,5 +1,18 @@
 # Diagnóstico Actual de la Finca
 
+## Índice de Navegación
+
+- [Inicio](./README.md)
+- [Información General](./01_InformacionGeneral.md)
+- [Plano de la Finca](./plano_finca.md)
+- [Inventario de Ganado](./inventario_ganado.md)
+- [Plan de Mejora](./03_PlanDeMejora.md)
+- [Cronograma de Implementación](./04_CronogramaImplementacion.md)
+- [Presupuesto](./05_Presupuesto.md)
+- [Recursos y Referencias](./06_RecursosReferencias.md)
+
+---
+
 ## Evaluación General
 
 Este documento presenta un diagnóstico preliminar basado en la información proporcionada. Se recomienda realizar un diagnóstico técnico detallado en campo para validar y ampliar estas observaciones.

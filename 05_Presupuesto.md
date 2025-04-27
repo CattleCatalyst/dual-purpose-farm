@@ -1,5 +1,27 @@
 # Presupuesto Estimado para Plan de Mejora
 
+## Índice de Navegación
+
+- [Inicio](./README.md)
+- [Información General](./01_InformacionGeneral.md)
+- [Plano de la Finca](./plano_finca.md)
+- [Inventario de Ganado](./inventario_ganado.md)
+- [Diagnóstico Actual](./02_DiagnosticoActual.md)
+- [Plan de Mejora](./03_PlanDeMejora.md)
+- [Cronograma de Implementación](./04_CronogramaImplementacion.md)
+- [Recursos y Referencias](./06_RecursosReferencias.md)
+
+### Planes Específicos
+- [Manejo de Pastos y Alimentación](./planes/01_ManejoDePasstos.md)
+- [Gestión del Agua](./planes/02_GestionDelAgua.md)
+- [Mejoramiento Genético](./planes/03_MejoramientoGenetico.md)
+- [Infraestructura](./planes/04_Infraestructura.md)
+- [Sanidad Animal](./planes/05_SanidadAnimal.md)
+- [Gestión Administrativa](./planes/06_GestionAdministrativa.md)
+- [Sostenibilidad Ambiental](./planes/07_SostenibilidadAmbiental.md)
+
+---
+
 Este presupuesto presenta una estimación general de las inversiones requeridas para implementar el plan de mejora integral de la finca ganadera. Los montos son referenciales y deberán ajustarse según cotizaciones específicas y condiciones locales.
 
 ## Resumen de Inversiones por Área

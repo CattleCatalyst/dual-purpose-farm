@@ -1,5 +1,27 @@
 # Cronograma de Implementación
 
+## Índice de Navegación
+
+- [Inicio](./README.md)
+- [Información General](./01_InformacionGeneral.md)
+- [Plano de la Finca](./plano_finca.md)
+- [Inventario de Ganado](./inventario_ganado.md)
+- [Diagnóstico Actual](./02_DiagnosticoActual.md)
+- [Plan de Mejora](./03_PlanDeMejora.md)
+- [Presupuesto](./05_Presupuesto.md)
+- [Recursos y Referencias](./06_RecursosReferencias.md)
+
+### Planes Específicos
+- [Manejo de Pastos y Alimentación](./planes/01_ManejoDePasstos.md)
+- [Gestión del Agua](./planes/02_GestionDelAgua.md)
+- [Mejoramiento Genético](./planes/03_MejoramientoGenetico.md)
+- [Infraestructura](./planes/04_Infraestructura.md)
+- [Sanidad Animal](./planes/05_SanidadAnimal.md)
+- [Gestión Administrativa](./planes/06_GestionAdministrativa.md)
+- [Sostenibilidad Ambiental](./planes/07_SostenibilidadAmbiental.md)
+
+---
+
 Este cronograma presenta una secuencia lógica para la implementación de las diferentes acciones contempladas en el plan de mejora, organizadas por fases y prioridades.
 
 ## Fase 1: Diagnóstico y Planificación Detallada (0-3 meses)
