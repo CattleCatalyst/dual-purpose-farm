@@ -239,6 +239,7 @@ Después de un análisis detallado de las condiciones específicas de la finca E
      * Producción de leche moderada a alta (no extrema)
      * Buena conformación cárnica
      * Facilidad de parto
+     * Resistencia a enfermedades
    - Adquisición de 1-2 toros Girolando 5/8 para monta natural de respaldo
    - Fuentes recomendadas: ABS Global, CRV Lagoa, Alta Genetics
 

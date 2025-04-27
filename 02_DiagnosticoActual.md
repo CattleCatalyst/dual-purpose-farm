@@ -48,11 +48,19 @@ Este documento presenta un diagnóstico preliminar basado en la información pro
 
 ### Genética y Reproducción
 
-- **Situación actual**: Composición del hato sin información sobre razas y parámetros reproductivos
+- **Situación actual**: 
+  - Hato actual compuesto principalmente por ganado criollo con cruces no sistemáticos
+  - Reciente introducción de toros con genética Girolando
+  - Ausencia de registros genealógicos y productivos
+  - Monta natural no controlada como sistema reproductivo principal
+  - Selección de reemplazos sin criterios técnicos definidos
 - **Oportunidades**:
-  - Caracterización genética del hato actual
-  - Implementación de programa de mejoramiento genético
-  - Optimización de parámetros reproductivos
+  - Implementación de programa de mejoramiento genético enfocado en Girolando (5/8 Holstein x 3/8 Gyr)
+  - Establecimiento de sistema de identificación y registros individuales
+  - Implementación de inseminación artificial con semen de toros Girolando probados
+  - Selección de vientres base para el programa de mejoramiento
+  - Desarrollo de protocolos de manejo reproductivo optimizados
+  - Crianza especializada de reemplazos para acelerar el mejoramiento genético
 
 ### Infraestructura
 

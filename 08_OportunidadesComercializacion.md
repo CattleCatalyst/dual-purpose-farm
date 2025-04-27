@@ -79,6 +79,7 @@
    - Documentar prácticas sostenibles de la finca
    - Iniciar registro de trazabilidad del ganado
    - Explorar certificaciones básicas de calidad
+   - Comunicar la transición hacia ganado Girolando como valor agregado
 
 3. **Optimización de ventas estacionales**:
    - Programar partos para maximizar producción en época seca
@@ -88,36 +89,80 @@
 ### Mediano Plazo (12-24 meses)
 
 1. **Desarrollo de marca local**:
-   - Crear identidad para productos de la finca
+   - Crear identidad para productos de la finca basada en la genética Girolando
    - Establecer relaciones directas con carnicerías y queserías locales
    - Participar en ferias y eventos ganaderos regionales
+   - Posicionar la finca como pionera en mejoramiento genético Girolando en la región
 
 2. **Alianzas estratégicas**:
    - Explorar asociatividad con fincas vecinas para volumen
    - Negociar contratos a mediano plazo con compradores
    - Compartir recursos de transporte y logística
+   - Establecer vínculos con asociaciones de criadores de Girolando en Nicaragua y Centroamérica
 
 3. **Valor agregado básico**:
    - Evaluar factibilidad de procesamiento artesanal de lácteos
    - Implementar engorde estratégico de novillos
-   - Desarrollar genética superior para venta de pie de cría
+   - Desarrollar genética superior para venta de pie de cría Girolando
+   - Iniciar programa de venta de novillas F1 a productores interesados en la raza
 
 ### Largo Plazo (24-36 meses)
 
 1. **Integración vertical**:
    - Evaluar inversión en facilidades de procesamiento
    - Desarrollar canales de venta directa al consumidor
-   - Explorar nichos de mercado premium (carne/leche orgánica, sostenible)
+   - Explorar nichos de mercado premium (carne/leche de Girolando con características diferenciadas)
+   - Crear línea de productos lácteos especializados destacando las cualidades de la leche Girolando
 
 2. **Exportación indirecta**:
    - Cumplir requisitos para proveer a exportadores
    - Participar en programas de certificación internacional
    - Desarrollar capacidad para cumplir estándares de exportación
+   - Explorar mercados para genética Girolando en países con condiciones climáticas similares
 
 3. **Diversificación de ingresos**:
-   - Turismo rural/agroturismo
-   - Venta de genética superior
-   - Servicios de asistencia técnica a otras fincas
+   - Turismo rural/agroturismo con énfasis en la exhibición del programa genético
+   - Venta de genética superior Girolando (semen, embriones)
+   - Servicios de asistencia técnica a otras fincas interesadas en implementar programas similares
+   - Organización de días de campo y capacitaciones sobre manejo de ganado Girolando
+
+## Oportunidades Específicas para Ganado Girolando
+
+### Mercado de Genética
+
+1. **Venta de Reproductores**:
+   - Toros jóvenes Girolando 5/8: C$80,000-120,000 por animal
+   - Novillas preñadas: C$60,000-80,000 por animal
+   - Vaquillas de reemplazo: C$40,000-60,000 por animal
+
+2. **Material Genético**:
+   - Posibilidad de convertirse en proveedor de semen de toros probados localmente
+   - Potencial para desarrollo de programa de transferencia de embriones a mediano plazo
+   - Alianzas con centros de inseminación artificial nacionales
+
+### Productos Diferenciados
+
+1. **Leche Girolando**:
+   - Mayor contenido de sólidos totales: potencial para productos lácteos especializados
+   - Mejor adaptación al clima: producción más estable durante todo el año
+   - Posibilidad de certificación de origen y calidad específica
+
+2. **Carne**:
+   - Novillos con mejor conformación y rendimiento en canal
+   - Potencial para desarrollo de cortes especializados
+   - Oportunidades para mercados que valoran la producción sostenible
+
+### Servicios Técnicos
+
+1. **Centro de Capacitación**:
+   - Desarrollo de módulos de capacitación en manejo de ganado Girolando
+   - Servicios de asesoría a productores en transición hacia esta genética
+   - Alianzas con instituciones educativas y de investigación
+
+2. **Turismo Rural Especializado**:
+   - Visitas técnicas para productores interesados
+   - Programas educativos sobre mejoramiento genético
+   - Exhibición de resultados productivos y reproductivos
 
 ## Análisis de Rentabilidad
 

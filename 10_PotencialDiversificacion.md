@@ -124,27 +124,37 @@ La finca El Cristal, con sus 149 manzanas y diversidad topográfica (495-598 msn
 ### 5. Producción de Genética Superior
 
 #### Potencial en Finca El Cristal
-- **Base genética en desarrollo**: Reciente introducción de toros con genética Girolando
-- **Condiciones desafiantes**: Ideal para selección de animales adaptados a condiciones tropicales
-- **Demanda regional**: Mercado creciente para reproductores adaptados a sistemas de doble propósito
-- **Variación altitudinal**: Permite selección para diferentes microambientes (495-598 msnm)
+- **Programa Girolando establecido**: Implementación de programa sistemático de mejoramiento genético con Girolando 5/8
+- **Condiciones desafiantes**: Ideal para selección de animales Girolando adaptados a condiciones tropicales de Boaco
+- **Demanda regional**: Mercado creciente para reproductores Girolando en sistemas de doble propósito en Nicaragua y Centroamérica
+- **Variación altitudinal**: Permite selección de Girolando para diferentes microambientes (495-598 msnm)
+- **Pioneros regionales**: Potencial para posicionarse como referente en genética Girolando adaptada a condiciones locales
 
 #### Productos Potenciales
-- **Toros reproductores**: Animales probados en condiciones de campo con registros productivos
-- **Novillas de reemplazo**: Hembras F1 y F2 con genética mejorada y adaptación comprobada
-- **Material genético**: Potencial futuro para producción de semen de toros destacados
-- **Asesoría técnica**: Servicios de consultoría en mejoramiento genético para fincas similares
+- **Toros reproductores Girolando**: Animales 5/8 Holstein x 3/8 Gyr probados en condiciones de campo con registros productivos
+- **Novillas Girolando**: Hembras F1 y F2 con genética mejorada y adaptación comprobada a condiciones de Boaco
+- **Material genético**: Potencial futuro para producción de semen de toros Girolando destacados en producción y adaptabilidad
+- **Asesoría técnica**: Servicios de consultoría en implementación de programas Girolando para fincas similares
+- **Centro demostrativo**: Módulo de exhibición de resultados del programa Girolando para productores de la región
 
 #### Inversión Estimada
-- **Programa básico**: US$10,000-15,000 (mejora de instalaciones, sistema de registros, compra de reproductores)
-- **Programa intermedio**: US$20,000-30,000 (inseminación artificial, sincronización, pruebas de progenie)
-- **Programa avanzado**: US$40,000-60,000 (transferencia de embriones, evaluación genómica)
+- **Programa básico**: US$12,000-18,000 (mejora de instalaciones, sistema de registros, compra de reproductores Girolando)
+- **Programa intermedio**: US$25,000-35,000 (inseminación artificial con semen Girolando, sincronización, pruebas de progenie)
+- **Programa avanzado**: US$45,000-65,000 (transferencia de embriones Girolando, evaluación genómica, certificación de pureza racial)
 
 #### Alianzas Estratégicas
 - **INTA**: Programa de Mejoramiento Genético Bovino
-- **Universidades**: UNA, UNAN para investigación aplicada
-- **Asociaciones de Razas**: ASOGANOR, ASOCEBU
-- **Empresas de genética**: ABS, SEMEX, CRV
+- **Universidades**: UNA, UNAN para investigación aplicada en adaptación del Girolando
+- **Asociaciones de Criadores**: Asociación de Criadores de Girolando de Brasil, ASOCEBU Nicaragua
+- **Empresas de genética**: ABS, SEMEX, CRV con programas específicos de Girolando
+- **Fincas modelo**: Alianzas con fincas Girolando establecidas en Brasil y Colombia para intercambio de experiencias
+
+#### Ventajas Competitivas del Programa Girolando
+- **Adaptación tropical**: Animales seleccionados específicamente para condiciones similares a Boaco
+- **Doble propósito optimizado**: Balance ideal entre producción de leche (12-18 litros/día) y conformación cárnica
+- **Resistencia a enfermedades**: Mayor tolerancia a garrapatas, moscas y enfermedades tropicales
+- **Eficiencia alimenticia**: Mejor aprovechamiento de forrajes de calidad media, típicos de la zona
+- **Longevidad productiva**: Mayor vida útil en condiciones desafiantes, reduciendo costos de reemplazo
 
 ## Análisis de Factibilidad
 

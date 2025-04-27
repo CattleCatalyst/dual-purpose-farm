@@ -121,10 +121,18 @@
 ## Enfoque Productivo
 
 - **Sistema**: Ganadería de doble propósito (leche y carne)
-- **Razas predominantes**: Predominantemente ganado criollo con reciente introducción de toros con genética Girolando (cruces de Gyr con Holstein)
+- **Raza principal seleccionada**: Girolando (5/8 Holstein x 3/8 Gyr) como raza ideal para las condiciones de la finca
+- **Justificación de la selección**: 
+  - Adaptabilidad integral a todo el rango altitudinal de la finca (495-598 msnm)
+  - Balance óptimo entre producción de leche y conformación cárnica
+  - Rusticidad apropiada para las condiciones climáticas de Boaco
+  - Experiencia previa con toros de esta genética en la finca
 - **Producción actual**: 
   - Leche: 3-5 litros/vaca/día en época lluviosa, 1-3 litros/vaca/día en época seca
   - Carne: Ganancia diaria de peso en novillos de 350-450 g/día
+- **Producción proyectada con mejoramiento genético Girolando**:
+  - Leche: 12-18 litros/vaca/día en buenas condiciones de manejo
+  - Carne: Ganancia diaria de peso en novillos de 600-700 g/día
 
 ## Recursos Humanos
 

@@ -113,7 +113,8 @@ Con la implementación del plan de mejora, se proyectan los siguientes cambios:
 | Venta de leche | 80 vacas × 60% en ordeño × 6 L/día × 320 días × C$20/L | C$1,843,200 | US$51,200 |
 | Venta de terneros | 40 terneros × 200 kg × C$100/lb | C$1,760,000 | US$48,889 |
 | Venta de ganado descarte | 15 animales × 420 kg × C$70/lb | C$970,200 | US$26,950 |
-| **Total Ingresos** | | **C$4,573,400** | **US$127,039** |
+| Venta de genética Girolando | 5 vaquillas × C$60,000 + 2 toretes × C$100,000 | C$500,000 | US$13,889 |
+| **Total Ingresos** | | **C$5,073,400** | **US$140,928** |
 
 #### Costos Proyectados (Año 3)
 | Concepto | Monto (C$) | Monto (US$) | % del Total |
@@ -122,16 +123,17 @@ Con la implementación del plan de mejora, se proyectan los siguientes cambios:
 | Sanidad animal | C$250,000 | US$6,944 | 14% |
 | Mano de obra | C$500,000 | US$13,889 | 28% |
 | Mantenimiento de infraestructura | C$250,000 | US$6,944 | 14% |
-| Otros gastos operativos | C$200,000 | US$5,556 | 11% |
-| **Total Costos** | **C$1,800,000** | **US$50,000** | **100%** |
+| Programa de mejoramiento genético | C$180,000 | US$5,000 | 10% |
+| Otros gastos operativos | C$120,000 | US$3,333 | 7% |
+| **Total Costos** | **C$1,900,000** | **US$52,778** | **100%** |
 
 #### Resultado Económico Proyectado
 | Concepto | Monto (C$) | Monto (US$) |
 |----------|------------|-------------|
-| Total Ingresos | C$4,573,400 | US$127,039 |
-| Total Costos | C$1,800,000 | US$50,000 |
-| **Utilidad Bruta** | **C$2,773,400** | **US$77,039** |
-| Margen Bruto | 61% | 61% |
+| Total Ingresos | C$5,073,400 | US$140,928 |
+| Total Costos | C$1,900,000 | US$52,778 |
+| **Utilidad Bruta** | **C$3,173,400** | **US$88,150** |
+| Margen Bruto | 63% | 63% |
 
 ## Análisis de Inversiones
 
@@ -141,20 +143,62 @@ Con la implementación del plan de mejora, se proyectan los siguientes cambios:
 |-------------------|----------------------|-----------|------------------|
 | Mejoramiento de pasturas | $25,000 | Alta | 30% anual |
 | Infraestructura de agua | $15,000 | Alta | 40% anual |
-| Mejoramiento genético | $10,000 | Alta | 25% anual |
+| Mejoramiento genético Girolando | $15,000 | Alta | 35% anual |
 | Corrales e instalaciones | $20,000 | Media | 20% anual |
 | Equipos y maquinaria | $30,000 | Media | 15% anual |
 | Capacitación y asistencia técnica | $5,000 | Alta | 50% anual |
-| **Total Inversión** | **$105,000** | | **Promedio: 30%** |
+| **Total Inversión** | **$110,000** | | **Promedio: 32%** |
+
+### Detalle de Inversión en Mejoramiento Genético Girolando
+
+| Componente | Monto (US$) | Descripción |
+|------------|-------------|-------------|
+| Semen de toros Girolando 5/8 | $5,000 | 300 dosis de semen de toros probados |
+| Equipo de inseminación | $2,000 | Tanque de nitrógeno, pistolas, insumos |
+| Toros Girolando 5/8 | $6,000 | 2 toros reproductores para monta natural |
+| Sistema de identificación | $1,500 | Aretes, tatuadoras, registros |
+| Capacitación en manejo reproductivo | $500 | Entrenamiento del personal |
+| **Total** | **$15,000** | |
 
 ### Análisis de Retorno de Inversión
 
 | Indicador | Valor | Interpretación |
 |-----------|-------|----------------|
-| Período de recuperación | 3.5 años | Tiempo para recuperar la inversión total |
-| TIR (Tasa Interna de Retorno) | 28% | Superior a la tasa de interés bancaria (8-10%) |
-| VAN (Valor Actual Neto) a 5 años | $89,500 | Positivo, indica viabilidad del proyecto |
-| Relación Beneficio/Costo | 1.85 | Por cada dólar invertido se obtienen $1.85 |
+| Período de recuperación | 3.2 años | Tiempo para recuperar la inversión total |
+| TIR (Tasa Interna de Retorno) | 32% | Superior a la tasa de interés bancaria (8-10%) |
+| VAN (Valor Actual Neto) a 5 años | $98,500 | Positivo, indica viabilidad del proyecto |
+| Relación Beneficio/Costo | 1.95 | Por cada dólar invertido se obtienen $1.95 |
+
+## Impacto Económico del Programa Girolando
+
+### Beneficios Económicos Directos
+
+| Beneficio | Año 1 | Año 3 | Año 5 | Descripción |
+|-----------|-------|-------|-------|-------------|
+| Incremento en producción de leche | 10% | 40% | 70% | Mayor producción por vaca y mayor persistencia |
+| Mejora en calidad de leche | 5% | 15% | 20% | Mayor contenido de sólidos, mejor precio |
+| Reducción de intervalo entre partos | 5% | 15% | 25% | Mayor número de crías por vida productiva |
+| Mejor conformación de novillos | 0% | 10% | 20% | Mejor precio por kg en novillos para carne |
+| Venta de genética | 0% | 10% | 20% | Nuevo ingreso por venta de animales para reproducción |
+
+### Beneficios Económicos Indirectos
+
+| Beneficio | Descripción | Impacto Económico |
+|-----------|-------------|-------------------|
+| Reducción de mortalidad | Mejor adaptación al clima y resistencia a enfermedades | Ahorro de 3-5% en reposición |
+| Longevidad productiva | Mayor número de lactancias por vaca | Reducción de 10% en costos de reemplazo |
+| Eficiencia alimenticia | Mejor conversión de alimento a leche/carne | Ahorro de 8-12% en costos de alimentación |
+| Valor de marca | Reconocimiento como productor de genética Girolando | Acceso a mercados premium |
+
+### Comparativa de Indicadores Económicos por Raza
+
+| Indicador | Ganado Actual | Girolando (Año 3) | Girolando (Año 5) |
+|-----------|---------------|-------------------|-------------------|
+| Costo por litro de leche | C$12.5 | C$10.2 | C$8.5 |
+| Ingreso anual por vaca | C$21,600 | C$32,400 | C$43,200 |
+| Costo de mantenimiento por vaca | C$15,000 | C$16,500 | C$18,000 |
+| Margen neto por vaca | C$6,600 | C$15,900 | C$25,200 |
+| Retorno sobre inversión por animal | 44% | 96% | 140% |
 
 ## Estrategias de Financiamiento
 
@@ -171,10 +215,11 @@ Con la implementación del plan de mejora, se proyectan los siguientes cambios:
 
 | Fuente | Monto (US$) | Porcentaje | Uso Recomendado |
 |--------|-------------|------------|-----------------|
-| Capital propio | $35,000 | 33% | Mejoramiento de pasturas, genética |
-| Banco Produzcamos | $50,000 | 48% | Infraestructura, equipos |
-| Programas gubernamentales | $20,000 | 19% | Sistemas de agua, capacitación |
-| **Total** | **$105,000** | **100%** | |
+| Capital propio | $35,000 | 32% | Mejoramiento de pasturas, genética |
+| Banco Produzcamos | $50,000 | 45% | Infraestructura, equipos |
+| Programas gubernamentales | $20,000 | 18% | Sistemas de agua, capacitación |
+| Inversionistas privados | $5,000 | 5% | Acceso a mercados premium |
+| **Total** | **$110,000** | **100%** | |
 
 ## Gestión de Riesgos Financieros
 
