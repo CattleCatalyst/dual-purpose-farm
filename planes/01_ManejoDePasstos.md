@@ -175,15 +175,56 @@
 #### Acciones a corto plazo
 - Evaluar requerimientos nutricionales por categoría animal
 - Diseñar estrategias de suplementación específicas
+- Eliminar gradualmente el uso de gallinaza como suplemento por sus riesgos sanitarios:
+  - Posible contaminación con patógenos (Salmonella, E. coli)
+  - Presencia de residuos de antibióticos y otros medicamentos
+  - Riesgo de transmisión de enfermedades aviares
+  - Variabilidad en la calidad nutricional
+  - Posible acumulación de metales pesados
+- Implementar alternativas inmediatas a la gallinaza:
+  - **Melaza-urea**: Mezcla de 95% melaza y 5% urea, suministrada a razón de 0.5-1 kg/animal/día
+  - **Bloques multinutricionales**: Elaborados en finca con melaza (40%), urea (5%), sal mineral (5%), cal (10%), semolina de arroz (20%) y material fibroso (20%)
+  - **Suplemento proteico básico**: Mezcla de semolina de arroz (40%), semilla de guácimo molida (30%), melaza (20%), sal mineral (5%) y cal (5%)
 
 #### Acciones a mediano plazo
-- Implementar suplementación mineral para todo el hato
-- Desarrollar suplementación proteica para animales en producción
-- Establecer suplementación estratégica para época seca
+- Implementar suplementación mineral completa para todo el hato:
+  - **Mezcla mineral específica para Boaco**: Con niveles adecuados de fósforo, calcio, zinc, cobre y selenio según deficiencias locales
+  - Dosis: 60-80 g/animal/día para vacas en producción, 40-60 g/animal/día para el resto
+  - Ubicación estratégica de saladeros en cada potrero, protegidos de la lluvia
+- Desarrollar suplementación proteica específica para cada categoría:
+  - **Vacas en producción (>8 litros/día)**:
+    - Concentrado balanceado con 18% proteína: 1 kg por cada 2-3 litros producidos sobre los 5 litros base
+    - Suplemento proteico natural: 1-2 kg/día de follaje fresco de leguminosas (leucaena, cratylia, madero negro)
+    - Semilla de algodón: 1-2 kg/día como fuente de proteína y energía (cuando esté disponible)
+  - **Vacas en producción (<8 litros/día)**:
+    - Concentrado balanceado con 16% proteína: 1-2 kg/día
+    - Suplemento proteico natural: 1-2 kg/día de follaje fresco de leguminosas
+  - **Vacas secas y novillas**:
+    - Suplemento proteico natural: 1-2 kg/día de follaje fresco de leguminosas
+    - Bloques multinutricionales de acceso controlado
+  - **Terneros en crecimiento**:
+    - Concentrado de iniciación (18-20% proteína): 0.5-1 kg/día
+    - Heno de buena calidad a libre acceso
+- Establecer suplementación estratégica para época seca:
+  - **Ensilaje de maíz o sorgo**: 10-15 kg/animal/día para vacas en producción
+  - **Heno de buena calidad**: 3-5 kg/animal/día
+  - **Caña de azúcar picada + 1% urea**: 10-15 kg/animal/día
+  - **Follaje de árboles resistentes a sequía**: Guácimo, Guanacaste, Genízaro (2-3 kg/animal/día)
 
 #### Acciones a largo plazo
-- Producir suplementos en finca (bloques multinutricionales, ensilajes)
-- Optimizar formulaciones según resultados productivos
+- Producir suplementos en finca para reducir dependencia externa:
+  - **Bloques multinutricionales**: Producción de 50-100 bloques/mes (5 kg cada uno)
+  - **Concentrados artesanales**: Utilizando maíz, sorgo y leguminosas producidas en la finca
+  - **Sacharina**: Elaborada con caña de azúcar fermentada + 1% urea como suplemento energético-proteico
+  - **Harinas de follajes**: Secado y molido de hojas de leguminosas (leucaena, cratylia, morera)
+- Optimizar formulaciones según resultados productivos:
+  - Ajuste de fórmulas según respuesta en producción de leche
+  - Evaluación costo-beneficio de cada suplemento
+  - Desarrollo de mezclas específicas para cada época del año
+- Implementar sistema de monitoreo nutricional:
+  - Evaluación mensual de condición corporal
+  - Análisis periódico de calidad de leche (sólidos totales)
+  - Seguimiento de parámetros reproductivos como indicadores de estado nutricional
 
 ### 6. Conservación de Forrajes
 
