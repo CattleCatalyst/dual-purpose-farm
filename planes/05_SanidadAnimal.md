@@ -15,6 +15,8 @@
 - [Infraestructura](./04_Infraestructura.md)
 - [Gestión Administrativa](./06_GestionAdministrativa.md)
 - [Sostenibilidad Ambiental](./07_SostenibilidadAmbiental.md)
+- [Gestión Riesgos Climáticos](./08_GestionRiesgosClimaticos.md)
+- [Sistema Forraje Verde Hidropónico](./09_SistemaFVH.md)
 
 ---
 
